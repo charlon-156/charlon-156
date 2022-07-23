@@ -1,12 +1,12 @@
 # 🤨do i have a brain? 🧠
 
-<section>
+<section align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlon-156&layout=compact&langs_count=16&theme=chartreuse-dark&include_all_commits=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlon-156&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </section>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img title="HTML5" align="center" alt="HTML" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS3" align="center" alt="CSS" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img title="JavaScript" align="center" alt="JavaScript" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,4 +17,5 @@
   <img title="Mysql" align="center" alt"Mysql" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-![snake gif](https://github.com/charlon-156/charlon-156/blob/output/github-contribution-grid-snake.svg)
+
+  ![snake gif](https://github.com/charlon-156/charlon-156/blob/output/github-contribution-grid-snake.svg)
