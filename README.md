@@ -19,14 +19,6 @@
   <img title="Mysql" align="center" alt"Mysql" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-<div align='center' style="display: inline_block"> 
-
-### Contact
-<a height='5px' href="https://www.linkedin.com/in/charlon-fernandes-8aa273242/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-[![Instagram Badge](https://img.shields.io/badge/-natansl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natanael.sousaleite/?hl=pt-br)](https://instagram.com/natanael.sousaleite)
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/CharlonFernand3.svg?style=social&label=Follow%20%40Charlon_F)](https://twitter.com/CharlonFernand3)
-</div>
-
   <!-- Cobra desativada por tempo indeterminado
   ![snake gif](https://github.com/charlon-156/charlon-156/blob/output/github-contribution-grid-snake.svg)
   -->
