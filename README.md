@@ -20,5 +20,11 @@
   <img title="Figma" align="center" alt"Figma" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img title="Mysql" align="center" alt"Mysql" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img title="mongo" align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-</div>
 
+
+
+
+![snake gif](https://github.com/charlon-156/charlon-156/blob/output/github-contribution-grid-snake.svg)
+
+
+</div>
