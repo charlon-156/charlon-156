@@ -8,6 +8,16 @@
 
 <hr>
 
+<section align="center">
+<!--
+[![Instagram Badge](https://img.shields.io/badge/-natansl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natanael.sousaleite/?hl=pt-br)](https://instagram.com/natanael.sousaleite)
+[![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl)
+[![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:natansl@gmail.com)
+-->
+</section>
+
+<hr>
+
 <div style="display: inline_block" align="center"><br>
   <img title="HTML5" align="center" alt="HTML" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img title="CSS3" align="center" alt="CSS" height="40" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
