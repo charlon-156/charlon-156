@@ -3,7 +3,7 @@
 <section align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlon-156&layout=compact&langs_count=16&theme=aura&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlon-156&show_icons=true&theme=aura&include_all_commits=true&count_private=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=charlon-156&show_icons=true&theme=aura&include_all_commits=false&count_private=false"/>
 </section>
 
 <hr>
