@@ -12,7 +12,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Charlon_fernandes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/charlon_fernandes/)](https://www.instagram.com/charlon_fernandes/)
 [![Gmail Badge](https://img.shields.io/badge/-charlon135@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charlon135@gmail.com)](mailto:charlon135@gmail.com)
-  </div>
+  <a  href="https://linkedin.com/in/charlon-fernandes-8aa273242" target="_blank"><img src="https://img.shields.io/badge/-Charlon_Fernandes-%230077B5?&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </section>
 
