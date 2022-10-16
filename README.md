@@ -8,12 +8,12 @@
 
 <hr>
 
-<section align="center">
-<!--
-[![Instagram Badge](https://img.shields.io/badge/-natansl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natanael.sousaleite/?hl=pt-br)](https://instagram.com/natanael.sousaleite)
-[![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl)
-[![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:natansl@gmail.com)
--->
+<section style="display: inline_block" align="center">
+
+[![Instagram Badge](https://img.shields.io/badge/-Charlon_fernandes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/charlon_fernandes/)](https://www.instagram.com/charlon_fernandes/)
+[![Gmail Badge](https://img.shields.io/badge/-charlon135@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:charlon135@gmail.com)](mailto:charlon135@gmail.com)
+  </div>
+
 </section>
 
 <hr>
